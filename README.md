@@ -14,7 +14,7 @@ Este tutorial é para iniciantes e não usa instâncias de zookeeper separadas �
 Baixe Kafka no site oficial. Eu baixei a versão mais recente de hoje que é 2.5.0 e o nome do arquivo é "kafka_2.12-2.5.0.tgz".
 Copie o arquivo baixado para alguma pasta e extraia-o usando o comando tar
 > tar -xzf kafka_2. 12-2.5. 0.tgz
-Copie a pasta extraída no local desejado. Eu coloquei no local "E:\devsetup\bigdata\kafka2.5".
+Copie a pasta extraída no local desejado. Eu coloquei no local "C:\ProjetoKafka\kafka_2.12-2.5.0".
 A instalação está praticamente concluída !!
 
 3. Startup and Shutdown
